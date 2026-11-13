@@ -1,4 +1,6 @@
 # StairTappers
+
+![StairTappers gameplay](media/StairTapperGif.gif)
 ## Overview
 - Singleplayer speed-focused game where you go up the stairs as quick as you can using 'a' for left and 'd' for right.
 - Menu implemeneted

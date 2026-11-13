@@ -41,7 +41,7 @@ def correct_step_checker(a_or_d, randint_list):
             return False
 
 def fail_sequence(stunned):
-    fail_sound = pygame.mixer.Sound('Fail.wav')
+    fail_sound = pygame.mixer.Sound('fail.wav')
     fail_sound.play()
     stunned = True
     return stunned
